@@ -1,0 +1,51 @@
+Help!
+
+Commands to have a fiendly conversation with NOVA.
+
+---------------------------------------------------------------------------------------------------------------
+
+Button functions :-
+
+1. Click 'Run' : To start the conersation.
+2. Click 'Stop' : Stops the program.
+3. Click 'Help' : Opens the instructions for help.
+4. Click 'Exit' : Exit the program.
+
+****************************************************************************************************************
+
+VOICE COMMANDS
+
+if following is in your command :- 
+
+1.  'who are you' or 'give me your introduction' : NOVA will give you a brief introduction about itself.
+2.  'who am I' : Gives you a quirky answer.
+3.  'hello' : Greets you.
+4.  '[object] wikipedia' : Gives you desired information about [object].
+5.  'stop' : Stops the program.
+6.  'joke' : Tells you a joke.
+7.  'help' : Open help.
+8.  'bye' : Closes program.
+9. 'shutdown' : [Do you really want to shutdown the system sir!] asks you 
+		    reply ['yes' or 'please']
+		    shutdown yor your system.
+10. 'restart' : Restart your system.
+11. 'switch the window' : Switches the tab.
+12. 'time' : Gives you the current time.
+13. 'the date' : Gives you the current date.
+14. 'document' : Opens a new document.
+15. 'send message' : send message using whatsapp.
+16. 'close' : closes the program.
+17. 'search youtube' : ['What do you want to search?'] asks you,
+				give a command and get the result.
+18. 'search google' : [What do I search for you?] asks you,
+			    speak what you want to search.
+19. 'take screenshot' or 'take a screenshot' : Takes a screenshot and saks you to name the file to save it.
+20. 'you can sleep' or 'sleep' : Program will sleep.
+21. 'play music' or 'change music' : Play or change the music.
+22. 'thank you' : Welcomes you. 
+
+***************************************************************************************************************
+
+Hope you find this useful.
+
+---------------------------------------------------------------------------------------------------------------
